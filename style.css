@@ -1,0 +1,69 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  margin: auto;
+}
+
+p {
+  margin: 10px;
+}
+
+button {
+  border:none;
+}
+
+.container1 {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 300px 600px 300px;
+  height: 160px;
+}
+
+.container2 {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 600px 600px;
+  height: 150px;
+}
+
+.item-name {
+  margin-bottom: 10px;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.btn1 {
+  height: 104px;
+}
+
+.btn2 {
+  height: 97px;
+}
+
+.Request-button {
+  width: 220px;
+}
+
+.Add-button {
+  width: 220px;
+}
+
+.Sign-button {
+  width: 220px;
+}
+
+.Start-button {
+  width: 220px;
+}
+
+.Download-button {
+  width: 220px;
+}
+
+.Apply-button {
+  width: 220px;
+}
+
+.Save-button {
+  width: 220px;
+}
