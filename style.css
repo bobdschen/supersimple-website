@@ -18,13 +18,14 @@ button {
   margin-top: 20px;
   display: grid;
   grid-template-columns: 300px 600px 300px;
+  grid-auto-flow: column;
   height: 160px;
 }
 
 .container2 {
   margin-top: 20px;
   display: grid;
-  grid-template-columns: 600px 600px;
+  grid-template-columns: 400px 800px;
   height: 150px;
 }
 
@@ -34,38 +35,37 @@ button {
   font-weight: bold;
 }
 
-.btn1 {
-  height: 104px;
-}
-
-.btn2 {
-  height: 97px;
-}
-
 .Request-button {
+  height: 104px;
   width: 220px;
 }
 
 .Add-button {
-  width: 220px;
+  height: 104px;
+  width: 440px;
 }
 
 .Sign-button {
+  height: 97px;
   width: 220px;
 }
 
 .Start-button {
+  height: 97px;
   width: 220px;
 }
 
 .Download-button {
+  height: 97px;
   width: 220px;
 }
 
 .Apply-button {
-  width: 220px;
+  height: 97px;
+  width: 660px;
 }
 
 .Save-button {
+  height: 97px;
   width: 220px;
 }
