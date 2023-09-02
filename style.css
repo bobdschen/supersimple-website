@@ -15,17 +15,14 @@ button {
 }
 
 .container1 {
-  margin-top: 20px;
   display: grid;
-  grid-template-columns: 300px 600px 300px;
-  grid-auto-flow: column;
+  grid-template-columns: 300px 400px 300px;
   height: 160px;
 }
 
 .container2 {
-  margin-top: 20px;
   display: grid;
-  grid-template-columns: 400px 800px;
+  grid-template-columns: 500px 800px;
   height: 150px;
 }
 
@@ -42,7 +39,7 @@ button {
 
 .Add-button {
   height: 104px;
-  width: 440px;
+  width: 300px;
 }
 
 .Sign-button {
@@ -62,7 +59,7 @@ button {
 
 .Apply-button {
   height: 97px;
-  width: 660px;
+  width: 560px;
 }
 
 .Save-button {
